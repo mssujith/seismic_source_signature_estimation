@@ -1,1 +1,3 @@
-# seismic_source_signature_estimation
+# Seismic Source Signature Estimation
+
+Seismic source signature estimation is an essential problem in exploration seisology. There are many ways to estimate the source signature. One of the most important methods of estimating source signature is by deconvolution of the recorded response with the actual Earth’s response signature. In that case, we assume the source signature is in the minimum phase, and the Earth’s reflectivity series is white. Behura (2013) estimated source signature from the seismic traces. In this project, we aim to create an algorithm to estimate the source signature by Behura’s method and make some modifications.
